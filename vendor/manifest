@@ -1,0 +1,29 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/32bitkid/bitreader",
+			"repository": "https://github.com/32bitkid/bitreader",
+			"vcs": "git",
+			"revision": "c3a4602970db130ce14ca8d1e502241507bb426d",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/RangelReale/swfinfo",
+			"repository": "https://github.com/RangelReale/swfinfo",
+			"vcs": "git",
+			"revision": "0259db278b88f30000c7f19f9f042ba8ffc6a258",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/smira/lzma",
+			"repository": "https://github.com/smira/lzma",
+			"vcs": "git",
+			"revision": "7f0af6269940baa2c938fabe73e0d7ba41205683",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
